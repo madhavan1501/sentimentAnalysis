@@ -1,6 +1,6 @@
 ## Sentiment Analysis
 - You may clone the repository from the sentiment Analysis folder  (or)
-- open the project directly from the sentimentAnalysis.pynb
+- open the project directly from the sentimentAnalysis.ipynb
 
 ## Description
 This project aims to perform sentiment analysis on restaurant reviews using various machine learning algorithms.
